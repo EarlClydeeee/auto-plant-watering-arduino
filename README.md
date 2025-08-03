@@ -21,5 +21,3 @@ This project automates the watering of plants using a soil moisture sensor and a
 - `hardware/` – Parts list and wiring info
 - `data/` – Collected sensor readings (CSV)
 
-## 📜 License
-[MIT License](LICENSE)
